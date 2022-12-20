@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author laptop
+ *
+ */
+module dummyproj {
+}
